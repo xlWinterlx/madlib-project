@@ -1,0 +1,10 @@
+a = input("Enter a type of food")
+b = input("Enter a male celebrity")
+c = input("Enter an object")
+d = input("Enter another object")
+
+story = "I was eating " + a + " when " + b + " dropped his " + c + " on me. So he apologized and bought me a " + d + "."
+
+print(story)
+
+
