@@ -1,0 +1,39 @@
+a = input("verb")
+
+b = input("verb")
+          
+c = input("adjective")
+          
+d = input("article of clothing")
+          
+e = input("article of clothing")
+          
+f = input("adjective")
+          
+g = input("adjective")
+          
+h = input("sport")
+          
+i = input("sport")
+          
+j = input("noun")
+          
+k = input("article of clothing")
+          
+l = input("noun")
+          
+m = input("part of the body")
+          
+n = input("verb")
+          
+o = input("noun")
+          
+p = input("adjective")
+          
+q = input("drink")
+          
+r = input("verb-ing")
+          
+story = "Winter is so much fun because you can" + a +" and" + b + " in the" + c + " snow. It’s important to dress in" + d + " and" + e + " in order to stay" + f + " outdoors. There are many" + g + " winter sports, like" + h + " and" + i + ". It’s also fun to build a" + j + " and dress him in" + k + ", with a" + l + " for a" + m + ". It’s nice to" + n + " by a warm" + o + " and enjoy a cup of" + p + q + " after" + r + " in the snow all day."
+
+print(story)
